@@ -1,0 +1,19 @@
+C:\Users\Chrissi\documents\visual studio 2010\Projects\Insim\Insim\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Chrissi\documents\visual studio 2010\Projects\Insim\Insim\bin\Release\Insim.exe
+C:\Users\Chrissi\documents\visual studio 2010\Projects\Insim\Insim\bin\Release\Insim.pdb
+C:\Users\Chrissi\documents\visual studio 2010\Projects\Insim\Insim\bin\Release\InSimDotNet.dll
+C:\Users\Chrissi\documents\visual studio 2010\Projects\Insim\Insim\bin\Release\InSimDotNet.pdb
+C:\Users\Chrissi\documents\visual studio 2010\Projects\Insim\Insim\bin\Release\InSimDotNet.xml
+C:\Users\Chrissi\documents\visual studio 2010\Projects\Insim\Insim\obj\x86\Release\Insim.exe
+C:\Users\Chrissi\documents\visual studio 2010\Projects\Insim\Insim\obj\x86\Release\Insim.pdb
+C:\Users\Chrissi\Documents\LFS-Projekt\Insim\Insim\bin\Release\Insim.exe
+C:\Users\Chrissi\Documents\LFS-Projekt\Insim\Insim\bin\Release\Insim.pdb
+C:\Users\Chrissi\Documents\LFS-Projekt\Insim\Insim\bin\Release\InSimDotNet.dll
+C:\Users\Chrissi\Documents\LFS-Projekt\Insim\Insim\bin\Release\InSimDotNet.pdb
+C:\Users\Chrissi\Documents\LFS-Projekt\Insim\Insim\bin\Release\InSimDotNet.xml
+C:\Users\Chrissi\Documents\LFS-Projekt\Insim\Insim\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Chrissi\Documents\LFS-Projekt\Insim\Insim\obj\x86\Release\Insim.exe
+C:\Users\Chrissi\Documents\LFS-Projekt\Insim\Insim\obj\x86\Release\Insim.pdb
+C:\Users\laptop\Desktop\LFS-Projekt\03_Softwareentwicklung\C_Sharp_Programme\Insim\Insim\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\laptop\Desktop\LFS-Projekt\03_Softwareentwicklung\C_Sharp_Programme\Insim\Insim\obj\x86\Release\Insim.exe
+C:\Users\laptop\Desktop\LFS-Projekt\03_Softwareentwicklung\C_Sharp_Programme\Insim\Insim\obj\x86\Release\Insim.pdb

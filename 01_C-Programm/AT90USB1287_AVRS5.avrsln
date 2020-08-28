@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "AT90USB1287_AVRS5", "AT90USB1287_AVRS5\AT90USB1287_AVRS5.avrgccproj", "{4C8C1E61-C09F-4BB2-B043-18ADD1354C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C8C1E61-C09F-4BB2-B043-18ADD1354C6F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4C8C1E61-C09F-4BB2-B043-18ADD1354C6F}.Debug|AVR.Build.0 = Debug|AVR
+		{4C8C1E61-C09F-4BB2-B043-18ADD1354C6F}.Release|AVR.ActiveCfg = Release|AVR
+		{4C8C1E61-C09F-4BB2-B043-18ADD1354C6F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
